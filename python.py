@@ -1,2 +1,2 @@
 print("hello world")
-pirnt("this is second line")
+print("this is second line")
